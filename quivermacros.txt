@@ -1,4 +1,3 @@
-\newcommand{\C}{\mathcal{C}}
-\newcommand{\B}{\mathcal{B}}
+
 \newcommand{\b}{\mathbb}
-\newcommand{\c}{\mathcal}
+\newcommand{\C}{\mathcal}
